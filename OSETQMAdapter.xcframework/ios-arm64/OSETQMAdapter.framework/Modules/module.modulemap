@@ -1,0 +1,6 @@
+framework module OSETQMAdapter {
+  umbrella header "OSETQMAdapter.h"
+  export *
+
+  module * { export * }
+}
