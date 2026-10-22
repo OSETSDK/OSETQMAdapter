@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "OSETQMAdapter"
-  s.version      = "2.0.2.0"
+  s.version      = "2.0.2.1"
   s.summary      = "AdSet广告对接适配器类"
   s.description  = <<-DESC
                     OSETQMAdapter 是一个专业的广告聚合SDK，提供高效的广告展示和收益优化功能。
